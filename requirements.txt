@@ -1,2 +1,9 @@
 fastapi
 uvicorn
+pydantic
+optparse
+typing
+requests
+os
+json
+pathlib
