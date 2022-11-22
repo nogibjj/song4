@@ -20,7 +20,7 @@ def include_router(app):
 
 # start application
 def start_application():
-    app = FastAPI(title="Microservice", version="1.0")
+    app = FastAPI(title="Mailing Microservice", version="1.0")
     include_cors(app)
     include_router(app)
     return app
