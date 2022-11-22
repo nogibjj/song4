@@ -1,9 +1,6 @@
 fastapi
 uvicorn
-pydantic
-optparse
+pydantic[email]
 typing
 requests
-os
-json
 pathlib
