@@ -1,7 +1,7 @@
 Individual Project 4 (Data Engineering Systems)
 
 # Objective
-This project is to create a microservice that performs a task of sending an email by using FastAPI through Mailgun platform. It is intended to pursue CI/CD(Continuous Integration/Continuous Delivery) based on Github Actions.
+This project is to create a microservice that performs a task of sending an email by using FastAPI through Mailgun platform. It is intended to pursue CI/CD(Continuous Integration/Continuous Delivery) based on Github Actions and using container in the cloud settings (AWS).
 
 # Contents
 <img width="269" alt="image" src="https://user-images.githubusercontent.com/112578065/203455409-b2466420-a883-4bb4-a7fb-1379b7e5240f.png">
