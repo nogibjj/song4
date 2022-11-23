@@ -29,3 +29,9 @@ This project is to create a microservice that performs a task of sending an emai
   
 3) schemas
   - sch_comm.py
+
+# Mailgun Email API
+Mailgun is an email delivery service for sending, receiving, and tracking emails. Mailgun Email API especially makes integrating email into the existing applications incredibly easy with their RESTFUL API, SMTP relays, and comprehensive documentation.
+
+### Example (Source: https://www.mailgun.com)
+<img width="943" alt="image" src="https://user-images.githubusercontent.com/112578065/203453684-5e74a6ad-975b-448a-b0fb-092581e5a83b.png">
