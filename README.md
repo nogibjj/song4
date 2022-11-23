@@ -4,7 +4,7 @@ Individual Project 4 (Data Engineering Systems)
 This project is to create a microservice that performs a task of sending an email by using FastAPI through Mailgun platform. It is intended to pursue CI/CD(Continuous Integration/Continuous Delivery) based on Github Actions.
 
 # Contents
-<img width="267" alt="image" src="https://user-images.githubusercontent.com/112578065/203452663-656cdb86-636e-4d74-af9f-fe5a5deca1cc.png">
+<img width="269" alt="image" src="https://user-images.githubusercontent.com/112578065/203455409-b2466420-a883-4bb4-a7fb-1379b7e5240f.png">
 
 ## 1. Build a git repo: nogibjj/song4
 
