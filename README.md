@@ -6,9 +6,9 @@ This project is to create a microservice that performs a task of sending an emai
 # Contents
 <img width="267" alt="image" src="https://user-images.githubusercontent.com/112578065/203452663-656cdb86-636e-4d74-af9f-fe5a5deca1cc.png">
 
-1. Build a git repo: nogibjj/song4
+## 1. Build a git repo: nogibjj/song4
 
-2. Scaffolding
+## 2. Scaffolding
 - README.md
 - Makefile
 - requirements.txt
@@ -16,7 +16,7 @@ This project is to create a microservice that performs a task of sending an emai
 - main.py
 - test_mail.py
 
-3. Sub-folders
+## 3. Sub-folders
 1) apis
   - api_base.py
   - utils (folder)
