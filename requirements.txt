@@ -5,3 +5,4 @@ typing
 requests
 pathlib
 black
+pylint
