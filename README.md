@@ -16,7 +16,7 @@ This project is to create a microservice that performs a task of sending an emai
 - main.py
 - test_mail.py
 
-## 3. Sub-folders
+## 3. Structure of Directories
 1) apis
   - api_base.py
   - utils (folder)
