@@ -6,3 +6,4 @@ requests
 pathlib
 black
 pylint
+pytest
